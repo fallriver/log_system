@@ -1,0 +1,12 @@
+venv
+var
+conf
+*.pyc
+__pycache__
+.idea/
+celerybeat-schedule
+test.*
+*test
+export
+static
+Logs

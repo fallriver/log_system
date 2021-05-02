@@ -1,0 +1,1 @@
+from projects.handlers import log_record

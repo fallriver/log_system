@@ -1,0 +1,16 @@
+kombu
+pika
+ujson
+handler
+python-memcached
+tornado==5.0.2
+simplejson==3.15.0
+requests
+xmltodict
+sqlalchemy
+pymysql
+redis
+celery
+xlsxwriter
+gevent
+cpca
